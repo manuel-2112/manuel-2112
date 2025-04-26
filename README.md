@@ -13,4 +13,4 @@ I'm currently focused on learning about **Artificial Intelligence** and **Web De
 - Telegram: [@manueleq2112](https://t.me/manueleq2112)
 
 
-[![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=manuel-2112&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/manuel-2112)
+<!-- [![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=manuel-2112&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/manuel-2112) -->
