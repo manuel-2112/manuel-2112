@@ -1,12 +1,6 @@
 ### Hi there 👋 My name is Manuel.
 
-I'm currently focused on learning about **Artificial Intelligence** and **Web Development**. At the moment, I'm working with **Expo** and related tools to improve my skills in building modern web and mobile applications.
-
-## Favorite Languages & Technologies
-- TypeScript
-- Python
-- Docker
-- C#
+I'm currently focused on learning about **AI** and **Web Development**. At the moment, I'm working with **Expo** and related tools to improve my skills in building modern web and mobile applications.
 
 ## Contact
 - Email: [mespinoq@uc.cl](mailto:mespinoq@uc.cl)  
